@@ -10,7 +10,7 @@ from random import shuffle
 pool = ["Joel", "Jack", "Addison", "Peploe", "Phil", "Quinn", "Rex", "Ashan", "Max"]
 shuffle(pool)
 
-# Copy the partisipants and rotate the array
+# Copy the participants and rotate the array
 pool2 = pool.copy()
 pool2.append(pool2.pop(0))
 
