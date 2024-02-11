@@ -7,7 +7,7 @@
 from random import shuffle
 
 # Define randomised participants
-pool = ["Joel", "Jack", "Addison", "Peploe", "Phil", "Quinn", "Rex", "Ashan", "Max"]
+pool = []
 shuffle(pool)
 
 # Copy the participants and rotate the array
